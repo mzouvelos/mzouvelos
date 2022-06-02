@@ -24,7 +24,7 @@ articles_tree.add("MEng Engineering")
 
 
 about = """\
-An Engineer turned to data science. Interest in technology, machine learning and any data related activity that generates value and insights. I enjoy writing notebooks on [bold link=https://www.kaggle.com/michalisz/]Kaggle[/], both with R and Python.
+An Engineer turned to data science. Interest in technology, machine learning and any data related activity that generates value and insights. I enjoy writing data posts and notebooks, mainly using R.
 
 You can find me on [bold link=https://www.linkedin.com/in/michalis-zouvelos-8912371b6/]LinkedIn[/].
 
