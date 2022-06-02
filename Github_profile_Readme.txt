@@ -13,14 +13,14 @@ console = Console(record=True, width=150)
 
 tree = Tree("😎 [link=https://mzouvelos.github.io/]Michalis Zouvelos", guide_style="bold cyan")
 packages_tree = tree.add("📊 Honing Skills")
-packages_tree.add("R / Shiny")
-packages_tree.add("Docker")
+packages_tree.add("R")
+packages_tree.add("Python")
 packages_tree.add("SQL")
 packages_tree.add("Git")
-packages_tree.add("Cloud Technology")
+packages_tree.add("Power BI/Tableau")
 articles_tree = tree.add("📚 Education")
 articles_tree.add("MSc Information Management & Business Intelligence")
-articles_tree.add("MEng Engineering")
+articles_tree.add("MEng Civil Engineering")
 
 
 about = """\
